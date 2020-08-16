@@ -1,0 +1,67 @@
+!!! Notice !!!
+
+The Tixl Testnet Blankenese is not yet released, but will be released soon! The deposit will work as soon as the new version is released!
+
+With the release of the Tixl Testnest Blankenese comes the feature to send and receive Bitcoin. We wrote you a guide how to simply get some testnet bitcoin so you can transfer them to your Tixl wallet.
+An online wallet
+
+The easiest way to get a wallet for testnet bitcoins is to use an online wallet. This is fine for testnet tokens. Go to block.io and signup for an account.
+
+Click skip to select the free plan.
+
+
+    Confirm your mail address by entering the code.
+
+
+    Create a secret PIN.
+
+
+
+    Save your mnemonic.
+
+
+
+    Once you’re logged in click on the testnet button and select “Bitcoin (Testnet!)” on the top of the page.
+
+
+Select testnet on block.io
+
+Any other wallet, that supports the Bitcoin testnet and lets you send multiple transactions from the same address, will work.
+Get testnet tokens
+
+Copy your bitcoin testnet address from the online wallet by clicking on the QR Code Symbol. Go to one of the following faucets sites:
+
+    https://tbtc.bitaps.com/ (recommended)
+    https://coinfaucet.eu/en/btc-testnet/
+    https://testnet-faucet.mempool.co/
+    https://bitcoinfaucet.uo1.net/
+    sometimes some of these don’t work.
+
+Fill in your address and wait (refresh the page sometimes) until the transaction received enough confirmations (3) in the network. Then you should see your balance in the wallet.
+Transfer to the Tixl Wallet
+
+    Go to the Tixl Testnet Wallet, create a wallet and click on the Bitcoin Card.
+
+
+
+    Click on the “Deposit” Link below the balance.
+
+
+
+    Choose “Micro Amount Claim”.
+
+
+
+    The screen should look like this now and it should show two bitcoin addresses (different than in the screenshot):
+
+Now you need to send two transactions from your Bitcoin testnet wallet:
+
+    A transaction with the minimum possible amount (0.0001 on Block.io) to the address in the field marked with the red 1 in the lower field.
+    A transaction with the amount, that you wish to transfer to the tixl network, to the address marked with the red 2 in the upper field.
+
+You can also do this in one transaction with two outputs, if your BTC wallet supports this. The only thing that matters is, that both outputs are created from the same address.
+
+If you wish to deposit more, you don’t have to repeat the first transaction, as long as you send the transaction from the same address.
+
+Now you need to wait until the transactions are confirmed by the bitcoin testnet, then the Tixl wallet will automatically claim the transactions for you and show your new balance.
+The bitcoin testnet transactions can take some time, the block time is pretty random on the testnet. In our case it took about 30 minutes.
